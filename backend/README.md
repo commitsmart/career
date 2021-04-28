@@ -16,7 +16,7 @@ Submit your code through `github.com` by creating a **private** repository and s
 
 ## Description
 
-You have to implement an REST API for a simple core banking system. Think of your personal bank account experience. When in doubt, go for the simplest solution.
+You have to implement a REST API for a simple core banking system. Think of your personal bank account experience. When in doubt, go for the simplest solution.
 
 No UI needed.
 

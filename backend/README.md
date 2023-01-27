@@ -1,6 +1,9 @@
-# Commit Smart 
+# CommIT Smart
 
-### Back-end Assignment
+[commitsmart.com](https://commitsmart.com)
+[info@commitsmart.com](mailto:info@commitsmart.com)
+
+## Back-end Assignment
 
 The goal of the assignment is to get a picture of your programming skills and coding style.
 
@@ -14,27 +17,30 @@ Submit your code through `github.com` by creating a **private** repository and s
 
 ---
 
-## Description
+## Assignment
 
-You have to implement a REST API for a simple core banking system. Think of your personal bank account experience. When in doubt, go for the simplest solution.
+1. Create an application that connects to a MongoDB database and performs CRUD (Create, Read, Update, and Delete) operations on a collection.
+1. Implement a concurrency mechanism that allows the application to handle a large number of concurrent requests.
+1. Implement a custom business logic that involves data encryption and decryption for sensitive fields in the collection.
+1. Use an Object-Document Mapping (ODM) framework (e.g. Mongoose) to handle the database operations.
+1. Create a REST API for the application.
+1. Add unit tests to test the main parts of the application.
+1. Use Git for version control and GitHub for code sharing.
+1. Create a detailed document that explains the architecture of the application, the technologies used, and the reasoning behind the design decisions made, especially the encryption and decryption mechanism.
+1. Create a Dockerfile to containerize the application, and a docker-compose.yml file that sets up the application and the MongoDB database.
+1. Share your code repository with `csabaujvari` github account.
 
-No UI needed.
+---
 
-### Requirements / user stories
+## Evaluation Criteria
 
-***Deposit and Withdrawal:***
-
-The user has to be able to deposit and withdraw certain amount of money from his/her bank account.
-
-***Transfer:***
-
-The user has to be able to transfer money from his bank account to some other user’s bank account
-
-***Transaction history (date, amount, balance):***
-
-The user has to be able to get his transaction history with the info about his recent transactions with some attributes such as date, amount and current balance.
-
-***Transaction history filters (just deposits, withdrawal, date):***
-
-The user has to be able to filter his transactions by the direction of the transaction (withdraw or deposit) and by the date of the transaction.
-
+1. The application should be functional and correctly perform CRUD operations on the database.
+1. Proper use the selected technologies (MongoDB, ODM, REST API)
+1. Proper multi-threading mechanism.
+1. Proper use of encryption and decryption mechanism for sensitive data.
+1. Proper error handling.
+1. Proper use of Git and GitHub for version control.
+1. Clear and well-written documentation.
+1. Proper code formatting and commenting.
+1. The ability to explain the design decisions made during the development process, especially the encryption and decryption mechanism.
+1. Proper use of Docker and Docker-compose for containerization and testing.

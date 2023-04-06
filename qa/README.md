@@ -12,7 +12,7 @@ In each task, you will be presented with a specific scenario related to one of t
 
 Don't stress if you can't get every part done - spend a maximum of 3 hours on this assignment. Feel free to add comments or notes to help us understand your thinking and decisions. We value both the final results and the reasoning behind them.
 
-Submit your solution via [email](mailto:info@commitsmart.com) by creating a Word document or create a Google Doc and sharing it with the info@commitsmart.hu account.
+Submit your solution via [email](mailto:renata.bernhardt@commitsmart.com) by creating a Word document or create a Google Doc and sharing it with the renata.bernhardt@commitsmart.com account.
 
 ---
 

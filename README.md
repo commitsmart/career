@@ -23,3 +23,7 @@ We look forward to reviewing your work and potentially welcoming you to our team
 ## DevOps Assignment
 
 [devops/README.md](devops/README.md)
+
+## QA Manual Tester Assignment
+
+[qa/README.md](qa/README.md)

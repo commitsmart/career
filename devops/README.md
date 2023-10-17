@@ -10,7 +10,7 @@ The goal of the assignment is to get a picture of your programming skills and co
 
 Don't stress if you can't get every part done -- spend a maximum of 3 hours on this assignment. Feel free to add comments or README notes to help us understand your thinking and decisions.
 
-Submit your code through `github.com` by creating a **private** repository and sharing it with the `csabaujvari` github account.
+Submit your code through `github.com` by creating a **private** repository and sharing it with the `commitsmart-jobs` github account.
 
 ---
 

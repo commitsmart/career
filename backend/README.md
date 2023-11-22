@@ -29,7 +29,7 @@ Submit your code through `github.com` by creating a **private** repository and s
 1. Use Git for version control and GitHub for code sharing.
 1. Create a detailed document that explains the architecture of the application, the technologies used, and the reasoning behind the design decisions made, especially the encryption and decryption mechanism.
 1. Create a Dockerfile to containerize the application, and a docker-compose.yml file that sets up the application and the MongoDB database.
-1. Share your code repository with `csabaujvari` github account.
+1. Share your code repository with `commitsmart-jobs` github account.
 
 ---
 

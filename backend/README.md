@@ -23,7 +23,6 @@ Submit your code through `github.com` by creating a **private** repository and s
 1. Create an application that connects to a MongoDB database and performs CRUD (Create, Read, Update, and Delete) operations on a collection.
 1. Implement a concurrency mechanism that allows the application to handle a large number of concurrent requests.
 1. Implement a custom business logic that involves data encryption and decryption for sensitive fields in the collection.
-1. Use an Object-Document Mapping (ODM) framework (e.g. Mongoose) to handle the database operations.
 1. Create a REST API for the application.
 1. Add unit tests to test the main parts of the application.
 1. Use Git for version control and GitHub for code sharing.

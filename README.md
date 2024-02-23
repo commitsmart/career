@@ -16,6 +16,10 @@ We look forward to reviewing your work and potentially welcoming you to our team
 
 [backend/README.md](backend/README.md)
 
+## Frontend Assignment
+
+[frontend/README.md](frontend/README.md)
+
 ## Mobile Assignment
 
 [mobile/README.md](mobile/README.md)

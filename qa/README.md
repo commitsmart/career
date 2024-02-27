@@ -37,7 +37,7 @@ Write test cases for this feature that cover both positive and negative scenario
 You are testing a website and need to use the browser developer tools to identify an issue. The issue is that when a user clicks on a button, nothing happens. Using the browser developer tools, find the cause of the issue and provide a solution to fix it. 
 
 Task:
-Write 3 examples of possible causes of the issue and briefly explain what you expect in these cases when viewing requests and responses under the Network tab. 
+Write about 3 examples of possible causes for the button click issue that are related to API calls or network requests. For each example, provide a brief explanation of what specific signs or errors you would look for under the Network tab in the developer tools.
 
 **4. Debugging**
 

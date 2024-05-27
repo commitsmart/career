@@ -25,7 +25,7 @@ Submit your code through `github.com` by creating a **private** repository and s
 1. Use your favorite CI/CD solution (Jenkins, GitLab CI, CircleCI, etc) to deploy Kubernetes resources.
 1. Create a detailed document that explains the architecture of the infrastructure, the technologies used, and the reasoning behind the design decisions made.
 1. Create a script that automates the process of applying the Terraform configuration and running the test (if you have).
-1. Share your code repository with `csabaujvari` github account.
+1. Share your code repository with `commitsmart-jobs` github account.
 
 **Advanced Task:**
 
